@@ -1,0 +1,20 @@
+A,[01] What is used in playing Ultimate?, Disc, Plate, Ball
+B,[02] Who can't run when holding a disc?, Defender, Thrower, Marker
+C,[03] The maximum number of players on the field during each point, 5, 6, 7
+A,[04] Who regulates the flow of the game?, The players themselves, The referee, The sideline
+B,[05] It guides how players referee the game and conduct themselves in the field, Essence of the Game, Spirit of the Game, Score of the Game
+C,[06] Ultimate is..., a contact sport and has a referee, non-contact but has a referee, non-contact & self-refereed
+A,[07] Reacting calmly towards disagreements or provocations is an example of showing...,Good spirit, Good camaraderie, Good game
+B,[08] Being agressive and disrepectful to other players..., Depends on the situation, Must be avoided during gameplay, Is normal during a play
+C,[09] The length of the playing field, 80 meters, 90 meters,100 meters
+A,[10] The width of the playing field, 37 meters, 39 meters, 41 meters
+B,[11] The length of the end zone, 17 meters, 18 meters, 20 meters
+C,[12] The line that separates central zone and the end zones, End lines, Perimeter lines, Goal lines
+A,[13] How far is the brick mark from the goal line?,18 meters, 19 meters, 20 meters
+B,[14] What is usually used to mark the corners of central and end zones, Markers, Cones, Flares
+C,[15] How many meters do non-players must be away from the playing field?, 1 meter, 2 meters, 3 meters
+A,[16] Half-time occurs when a team scores how many points?, 8 points, 7 points, 6 points
+B,[17] How does each point of a game ends?, When a player reaches the end zone, When one team scored a goal, When an opposing player subs out
+C,[18] How many periods of play is a game separated into?, A game is not separated into periods, 3 periods, 2 periods
+A,[19] The maximum number of players on the field during each point,7 players, 9 players, 12 players
+B,[20] The number of substitutions a team can make after a goal	and before the signal of the pull, Once, Infinite, Twice

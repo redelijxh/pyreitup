@@ -1,0 +1,20 @@
+A,[01] These temporarily available skins celebrate the start of a new competitive season, Challenger, Competitor, Cosmic
+B,[02] The following skins are being released on the upcoming patch except..., Coven Lissandra, Santa Draven, Lunar Eclipse Leona 
+C,[03] Which of these is not an example of a Field of Justice?, Howling Abyss, Crsytal Scar, Paradise Palms
+B,[04] The name of the new upcoming champion, Anivia, Neeko, Akali
+A,[05] How many items can a champion carry during a game?, 6, 5, 4
+B,[06] Items are only obtainable at?, The River, The Fountain, The Jungle
+C,[07] The only champion who could obtain items everywhere on the map., Heimerdinger, Caitlyn, Ornn
+B,[08] At what instance can a player obtain a Hextech Chest?, By leveling up, When you earned a grade of S after a game, Getting a pentakill in-game
+A,[09] How key fragments are needed to form a Key?, 3, 4, 5
+B,[10] Loot Exclusive skins have their Tier called?, Legendary, Mythic, Ultimate
+C,[11] Skins that provides a new model that evolves into different forms with several bonus content., Legendary, Mythic, Ultimate
+B,[12] A skin that is complete reimaging of champion from scratch with total and complete immersion in the fantasy., Mythic, Legendary, Ultimate
+A,[13] The winner of World Championship Season 7., Samsung Galaxy, SK Telecom, Fnatic
+B,[14] These champion have skins given out at the Penny Arcade Expo (PAX) except for..., Sivir, Akali, Twisted Fate
+C,[15] Skins that are no longer purchasable in from the Riot Store., Traditional, Expired, Retired
+B,[16] Awarded skins for players who achieved a Gold or higher rank at the end of the season., Championship, Victorious, Traditional
+A,[17] The following champions have a Victorious skin except..., Kalista, Elise, Morgana
+B,[18] The following champions have Championship skins except..., Thresh, Sivir, Zed
+C,[19] The following champions have a Star Guardian skin except..., Lux, Ezreal, Ekko
+B,[20] The splash art of this champion a demolished version of another champion., Caitlyn, Jinx, Vi

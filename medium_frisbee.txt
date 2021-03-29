@@ -1,0 +1,20 @@
+A,[01] A play commences with a throw-off called a..., Pull, Push, Launch
+B,[02] The pull can be only made if both teams are ready., False, True, Depends on the situation
+C,[03] What must defensive players do after signalling readiness?, Change positions, Must not change location relative to one another, Keep behind the goal line
+B,[04] What must offensive players do after signalling readiness?, Change positions, Must not change location relative to one another, Keep behind the goal line
+A,[05] What can be done when the disc is pulled or released?, Players can move around, Players wait for the disc to land, Players can substitute
+B,[06] If an offensive player touches the disc before it hits the ground and the offensive team fails to catch it is called a/an..., Initiating Pull, Dropped Pull, Substitute Pull
+C,[07] When a player successfully catches a pull they..., Must wait for a defender, Should go to the brick mark, Should establish pivot near to the point it was caught
+B,[08] What must the player do after a pull if the disc made contact with the field then went out of bounds?, Establish pivot near to the point it was caught, Establish pivot near to the point where it went out, Establish play on the brick mark
+A,[09] What must the player do after a pull if the disc went out of bounds?, Establish play on the brick mark, Establish pivot near to the point it was caught, Establish pivot near to the point where it went out
+B,[10] A verbal warning when the offense breaches the play., Stalling Ten, Delaying the Game, Pick
+C,[11] A player who administers stall count on an offensive player, Defender, Handler, Marker
+B,[12] The marker must be how far from the offensive player?, At least 4 meters away, At most 3 meters, 1 feet away from the player with the disc
+A,[13] A stall count resumes at at what point after a contested stall-out?, Stalling 8, Stalling 7, Stalling 6
+B,[14] All players must do WHAT if the disc is returned to the thrower after a play is stopped?, Stay put in their position, Return to their location before the disc is thrown, Go to the location where they are supposed to go
+C,[15] Default or most common offensive stack., T Stack, V Stack, H Stack
+B,[16] Type of defense where players guard the passing lanes or open space for throws., Man to man Defense, Zone Defense, Cup Defense
+A,[17] How many players is a cup composed of?, 3 players, 2 players, 5 players
+B,[18] Offense play wherein players form a single line infront of the handlers., H Stack, V Stack, 3x3x1 Stack
+C,[19] Offensive players who controls the flow of a play., Cutter, Runner, Handler
+B,[20] Defensive players who guards for long throws., Cutter, Handler, Wing

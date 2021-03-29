@@ -1,0 +1,20 @@
+A,[01] Who is the main dancer of Twice?, Momo, Dahyun, Chaeyoung
+B,[02] Who is the main rapper of Twice?, Momo, Dahyun, Chaeyoung
+C,[03] Who is the main dancer of SNSD?, Yoona, Yuri, Hyoyeon
+B,[04] Who is the main vocalist of SNSD?, Seohyun, Taeyeon, Tiffany
+A,[05] The group formed from Produce 101 Season 1., I.O.I, IZ*ONE, Wanna One
+B,[06] The group formed from Produce 48., I.O.I, IZ*ONE, Wanna One
+C,[07] Which of these IZ*ONE members is not from Japan?, Nako, Hitomi, Yujin
+B,[08] The latest comeback song of Twice., Dance the Night Away, Yes or Yes, What is Love?
+A,[09] Which member does not belong to the sub-unit of PRISTIN?, Eunbi, Nayoung, Kyulkyung
+B,[10] The visual of Red Velvet., Joy, Irene, Wendy
+C,[11] The latest comeback song of WINNER., Everytime, Every Night, Everyday
+B,[12] The latest comeback song of iKON., Love Scenario, Killing Me, Everyday
+A,[13] Until when does the contract of Wanna One lasts?, December 2018, January 2019, February 2019
+B,[14] The leader of the group Seventeen., Sung Cheol, Jeong Han, Jun Hwi
+C,[15] The leader of the group Wanna One., Daniel, Guanli, Jisung
+B,[16] Known as APink's brother group., VIXX, VICTON, UNB
+A,[17] The leader of SHINee., Onew, Minho, Taemin
+B,[18] Which one of them is not a main vocalists of Wanna One?, Sungwoon, Sungwoo, Jaehwan
+C,[19] Who is the visual of ASTRO?, Moonbin, Sanha, Cha Eunwoo
+B,[20] Who is the main rapper of BTS?, Suga, RM, Jungkook

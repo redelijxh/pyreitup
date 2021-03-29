@@ -1,0 +1,20 @@
+﻿A,[01] The member who is represents the groups in various ways and is usually the eldest., Leader, Visual, Maknae
+A,[02] The member who has the best singing skills among the members., Main Vocalist, Lead Vocalist, Sub-Vocalist
+A,[03] The member who has the best dancing skills among the members., Main Dancer, Lead Dancer, Dancer 
+B,[04] The member who has the best rapping skills among the members., Lead Rapper, Main Rapper, Sub-Rapper
+B,[05] Members who have ranked 2nd in their skills., Main Role, Lead Role, Sub Role
+B,[06] The member who is considered the most attractive., Center, Visual, Face of the Group
+C,[07] The member who is the most recognized face., Center, Visual, Face of the Group
+C,[08] This member's role is to bring attention to the group., Center, Visual, Face of the Group
+C,[09] This member is usually placed in the middle during promotion because of their popularity or talent., Visual, Face of the Group, Center
+A,[10] The youngest member of a group is called..., Maknae, Unnie, Hyung
+A,[11] Rank 4 of Produce 101 Season 1., Chungha, Somi, Kyulkyung
+A,[12] Rank 2 of Produce 101 Season 1., Seojeong, Doyeon, Yeonjung
+B,[13] Rank 5 of Produce 101 Season 2., Daniel, Sungwoo, Jaehwan
+B,[14] Rank 10 of Produce 101 Season 2., Daehwi, Jinyoung, Jihoon
+B,[15] Rank 12 of Produce 48., Eunbi, Chaeyoung, Chaewon
+C,[16] Rank 6 of Produce 48., Sakura, Hitomi, Nako
+C,[17] Rank 5 of Produce 48., Cho Won, Hyewon, Yujin
+C,[18] Represents the zodiac sign Leo in WJSN., Soobin, Luda, Bona
+A,[19] Represents the zodiac sign Ophiucus in WJSN., Yeonjung, Soobin, EXY
+A,[20] Represents the zodiac sign Capricorn in WJSN., Loona, Dawon, Cheng Xiao

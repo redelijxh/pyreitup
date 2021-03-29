@@ -1,0 +1,20 @@
+A,[01] She sang 'Gashina' which became a huge success last August 2017., Sunmi, Taeyeon, Rose
+B,[02] When did 4Minute disbanded?, May 2015, June 2016, July 2017 
+C,[03] Who is the leader of Blackpink?, Rose, Jisoo, They have no leader
+A,[04] This group made a recent comeback with their song 'I'm So Sick'., Apink, SNSD, WJSN
+B,[05] A group from Cube Entertainment which debuted last May 2018., I.O.I., (GI)-DLE, BoA 
+C,[06] Who is the leader of Apink?, Eunji, Namjoo, Chorong
+A,[07] This group was known for their some 'Up and Down'., EXID, f(x), Red Velvet
+B,[08] Gfriend had their first music show win with what song?, Me Gustas Tu, Rough, Navillera
+C,[09] The first SNSD member to have her solo debut., Jessica, Hyoyeon, Taeyeon
+A,[10] Which SNSD member is not a US Citizen?, Sooyoung, Sunny, Tiffany
+B,[11] A group under Fantagio Entertainment who debuted last February 2016., EXO, Astro, Pentagon 
+C,[12] What us the name of the subsidiary company of YG Entertainment?, YGT, YGZ, YGX
+A,[13] The group name 'BTS' means..., Bangtan Boys, Behind The Scenes, Back to Seoul 
+B,[14] A band under JYP Entertainment who debuted last September 2015., NightBlue, Day6, 2PM
+C,[15] EXO was originally how many members?, 10, 11, 12
+A,[16] A group from a fan project from trainees who previously participated in Produce 101 Season 2., JBJ, BTS, JJCC
+B,[17] This group made their recent comeback with the song 'Shoot Out'., MBLAQ, MonstaX, NCT
+C,[18] How many members is NCT composed of as of 2018?, 16, 17, 18
+A,[19] How many sub-unit groups does NCT have?, 3, 4, 5
+B,[20] How many sub-unit groups does Seventeen have?, 2, 3, 4

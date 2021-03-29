@@ -1,0 +1,20 @@
+A,[01] Player-controlled characters in LoL, Champions, Realms, Summoner
+B,[02] The latest champion released, Thresh, Pyke, Miss Fortune
+C,[03] The fictional world where the lore of LoL takes place, Ionia, Vastaya, Runeterra
+A,[04] The name of Nunu's yeti,Willump, Tibbers, Skarl
+B,[05] Kai'sa was trapped in what place?, The Abyss, The Void, The Zaun
+C,[06] Who among these are rivals according to their lore, Xayah and Rakan, Annie and Tibbers, Leona and Diana
+A,[07] How many lanes are there in the the Rift?,3 lanes,4 lanes,5 lanes
+B,[08] How many players are there on each team?,4 players,5 players,3 players
+C,[09] Which of these is not a spell?,Flash,Exhaust,Incinerate
+A,[10] These add or enhances champion abilities and statistics which can be customized before playing,Runes,Spells,Items
+B,[11] An alternate appearance of a champion,Chroma,Skin,Icon
+C,[12] An alternate color scheme of a champion,Skin,Icon,Chroma
+A,[13] AI controlled units that automatically attacks any enemy unit or structure,Minions,Creeps,Pawns 
+B,[14] Which one is not a type of a minion?,Caster,Canon,Super
+C,[15] Neutral units which only attack if provoked,Minions,Farm,Monster
+A,[16] A monster who runs when provoked instead of attacking,Scuttler,Squirtle,Sentinels
+B,[17] An item that summons the Rift Herald for it to push a lane,Horn of the Herald,Eye of the Herald,Claw of the Herald
+C,[18] The most powerful neutral monster in the Rift,Vilemaw,Brambleback,Baron Nashor 
+A,[19] Core game components that blocks enemy minion waves and champions' path to the nexus,Turret,Building,Camp
+B,[20] The primary objective to be destroyed in order to win,Main Turret,Nexus,Inhibitor

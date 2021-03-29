@@ -1,0 +1,20 @@
+﻿A,[01] Ancient beings of The Void who are the masters above all living Voidborns, The Watchers, The Ascended, The Voidlings
+A,[02] The only Minotaur who survived the Fleshling of Noxians., Alistar, Anivia, Ornn
+A,[03] Which of the following is not a demigod?, Ryze, Volibear, Ornn
+B,[04] Which of the following is not a demon?, Evelynn, Ivern, Tahm Kench
+B,[05] Species who are a fusion of nature spirits and plant life., Yordle, Traents, Paladins
+B,[06] Mammalian-like spirit beings who are known for being small in stature., Vastayans, Yordles, Trolls
+C,[07] The most dangerous Voidborn in Shurima., Kai Sa, Xer Sai, Rek Sai
+C,[08] A secret organization in Noxus who resurrected Sion., Black Blood, Black Knights, Black Rose
+C,[09] A permanent thing that shrouds the Shadow Isles., Black Rose, Black Thorn, Black Mist
+A,[10] A city also known as the City of Progress., Piltover, Ionia, Bandle City
+A,[11] The nth shot of Jhin's Curtain Call that critically strikes for 100%., 4th, 5th, 6th
+A,[12] How many units does Evelynn blink back after casting Last Caress?, 700, 650, 850
+B,[13] How many spheres orbit Diana's shield when activating Pale Cascade?, 4, 3, 5
+B,[14] What is summoned when Yorick casts his ultimate?, The Horror of the Isles, The Maiden of the Mist, The Chill of the Abyss
+B,[15] How many seconds does the stun of Solar Flare lasts?, 1.0, 1.5, 2.0
+C,[16] Sigil of Malice marks an enemy for how many seconds?, 2.5, 3.0, 3.5
+C,[17] How many missiles does Icathian Rain releases when evolved?, 6, 9, 12
+C,[18] Miss Fortune's Bullet Time waves can critically strike for how much?, 10%, 30%, 20%
+A,[19] Which of Lucian's ability can be also activated when he is using The Culling?, Relentless Pursuit, Ardent Blaze, Piercing Light
+A,[20] What happends when Frozen Tomb is self casted on Lissandra?, Heals herself, She becomes invulnerable, Vines spread from her location

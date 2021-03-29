@@ -1,0 +1,20 @@
+﻿A,[01] Which is not considered a part of in-bounds?, Perimeter Lines, Brick Mark, Goal Lines
+A,[02] An airborne player is considered out-of-bounds unless..., They still landed in the playing field, They landed outside the the playing field, They landed on a perimeter line
+A,[03] A player may go out-of-bounds to make a play on the disc, True, False, Depends on the play
+B,[04] A disc may fly outside a perimeter line and return to the playing field, False, True, Depends on the play 
+B,[05] A catch is deemed to have not occured when..., When no player catches it, The player lost control of the disc and made contact with the ground, it is caught airborne
+B,[06] What happens after when a player catches a disc?, The starting position is established, The player becomes the thrower, Teams have to set-up their play first
+C,[07] Who has the possession if both an offensive and a defensive player catched the disc simultaneously?, Disc is returned to the thrower instead, The defensive player, The offensive player
+C,[08] A player in established position should..., Move around, Ignore disc space, Not be contacted by an opposing player
+C,[09] Is making a play for the disc with contact valid?, Depends on the play, Yes, No
+A,[10] Is incidental contact a foul?,No, Yes, Depends on the play
+A,[11] The transfer of possession of the disc from one team to another, Turnover, Pull, Throw
+A,[12] When does a turnover occur?,The disc contacts the ground, Disc caught by another player in the same team, Intentional contact
+B,[13] When does a turnover occur?, Player went out of bounds, A pass intercepeted by a defensive player, Intentional contact
+B,[14] When does a turnover occur?, Players made contact,The disc becomes out-of-bounds, No signal of readiness
+B,[15] Can a turnover result to a stoppage of the play, No, Yes, Depends on the play
+C,[16] Stall-out means that the thrower..., Has thrown the disc before the marker has started counting, Has dropped the disc, Has not released the disc before the marker first starts to say the word 'ten' in the stall count 
+C,[17] Double touch means..., Made contact with another player twice, Marked two offensive players, The thrower catches the disc again after attempting to pass it
+C,[18] A turnover location is where..., the brick mark is located, the point nearest where the disc fell, The disc has come to stop
+A,[19] Where to establish pivot if the turnover location is at the offence's attacking end zone?, Nearest point in the goal line, Nearest perimeter line, Nearest brick mark
+A,[20] A ____ is scored if an in-bounds player catches a pass within their attacking end zone, Goal, Turnover, Pick
